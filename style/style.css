@@ -1,0 +1,14 @@
+body {
+  font-family: arial, sans-serif;
+}
+p {
+  color: darkred;
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+}
+#amanha {
+  color: darkblue;
+  font-size: 20px;
+}
